@@ -171,7 +171,7 @@ Application implementation has not started.
 
 To obtain the project files, clone the GitHub repository:
 
-git clone https://github.com/bsef25m507/sre-github-lab.git
+git clone https://github.com/bsef25m529/sre-github-lab.git
 
 Navigate to the repository folder and open README.md using a Markdown-compatible editor such as Visual Studio Code or view the rendered documentation on GitHub.
 
